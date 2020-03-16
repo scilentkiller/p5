@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+
+<empinfo>
+<emp information="EMPLOYEE" id="bpo1">
+<eid>111</eid>
+<ename>Mr.RAM</ename>
+<des> MANAGER </des>
+<sal>12324</sal></emp>
+
+<emp information="EMPLOYEE" id="bpo2">
+<eid>222</eid>
+<ename>Mr.SHAM</ename>
+<des> FIANANCER </des>
+<sal>12435</sal></emp>
+
+<emp information="EMPLOYEE" id="bpo3">
+<eid>333</eid>
+<ename>Mrs.SITA</ename>
+<des> SUPERVISOR </des>
+<sal>12356</sal></emp>
+
+<emp information="EMPLOYEE" id="bpo4">
+<eid>444</eid>
+<ename>Mrs.RADHA</ename>
+<des> C.A </des>
+<sal>13324</sal></emp>
+</empinfo>
